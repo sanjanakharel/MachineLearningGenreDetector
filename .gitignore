@@ -1,0 +1,34 @@
+# Data and large files (download locally, see data/README.md)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+*.zip
+*.mp3
+*.wav
+*.npy
+*.npz
+
+# Trained models
+models/*
+!models/.gitkeep
+*.pt
+*.pth
+*.joblib
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
