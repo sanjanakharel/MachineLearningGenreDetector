@@ -2,7 +2,7 @@
 
 COSC 4368 – Fundamentals of Artificial Intelligence (University of Houston), final project.
 
-**Team:** Hoang Phi Pham, Sanjana Kharel, Kevin Ngo, Ayman Almasree
+**Team:** Sanjana Kharel, Kevin Ngo, Ayman Almasree, Hoang Phi Pham
 
 We classify the genre of short music clips from the [FMA Medium](https://github.com/mdeff/fma) dataset
 (25,000 30-second clips, 16 genres). We compare two approaches:
